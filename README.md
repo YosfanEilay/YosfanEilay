@@ -1,3 +1,3 @@
-# 🕵🏽 EilayYosfan 💻
+# 🕵🏽 EilayYosfan
 
 **`Digital Craftsman`**
