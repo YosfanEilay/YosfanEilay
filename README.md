@@ -9,7 +9,6 @@ scripts for Digital Forensics and Incident Response, fortifying the cyber world 
 malicious forces. Join me in preventing cybercriminals from casting their shadow over the internet!
 
 <p align="left"›
-    <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA?sub_confirmation=1">
     <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA" target="_blank" rel="noopener noreferrer">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
          src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCp1W-aYP1V81S--Rrjr0NkA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
