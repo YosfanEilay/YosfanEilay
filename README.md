@@ -28,12 +28,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
-### 🧰 Languages and Tools
-
-<br />
-
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
