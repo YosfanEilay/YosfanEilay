@@ -22,9 +22,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YosfanEilay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
-<div>
-  Would you like to <a href="https://www.linkedin.com/in/thomasvaeth" target="_blank">connect</a>?
-</div>
 
 
 
