@@ -30,7 +30,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ### 🧰 Languages and Tools
 
-<img src="PowerShell.svg" alt="PowerShell Logo" />
+<img src="https://gist.github.com/fsackur/9e4f98aaa3ba3984407e92e62a5f63bd#file-powershell-svg" alt="PowerShell Logo" />
 <br />
 
 ---
