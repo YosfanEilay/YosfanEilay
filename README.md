@@ -10,7 +10,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCp1W-aYP1V81S--Rrjr0NkA?style=social"/>
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCp1W-aYP1V81S--Rrjr0NkA?style=for-the-badge&labelColor=FF3333&color=FF6666"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCp1W-aYP1V81S--Rrjr0NkA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
