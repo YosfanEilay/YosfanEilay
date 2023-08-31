@@ -30,7 +30,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="PowerShell.svg" alt="PowerShell Logo" />
 <br />
 
 ---
