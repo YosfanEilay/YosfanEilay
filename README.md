@@ -16,7 +16,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCp1W-aYP1V81S--Rrjr0NkA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/YosfanEilay">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YosfanEilay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YosfanEilay?color=236ad3&labelColor=6A00B5&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/YosfanEilay?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YosfanEilay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
@@ -25,5 +25,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
         <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/connection/eilay-yosfan-80b1011b8?color=0077B5&style=for-the-badge&labelColor=005885&logo=linkedin"/>
     </a>
 </p>
+
 
 
