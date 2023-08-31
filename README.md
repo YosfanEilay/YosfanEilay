@@ -23,8 +23,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
     </a>
 </p>
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/eilay-yosfan-80b1011b8/)
-
 
 
 
