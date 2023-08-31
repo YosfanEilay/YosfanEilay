@@ -22,7 +22,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YosfanEilay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
     <a href="https://www.linkedin.com/in/eilay-yosfan-80b1011b8">
-        <img alt="Follow me on linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img alt="Linkedin" title="Follow me on Linkedin!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
