@@ -16,6 +16,9 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCp1W-aYP1V81S--Rrjr0NkA?color=FF6666&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF3333"/></a>  
     </a>
     <a href="https://github.com/YosfanEilay">
+        <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/Linkedin/followers/YosfanEilay?style=for-the-badge&logo=Linkedin&labelColor=004C99&color=0066CC"/>
+    </a>
+    <a href="https://github.com/YosfanEilay">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YosfanEilay?style=for-the-badge&logo=person-add&labelColor=004C99&color=0066CC"/>
     </a>
     <a href="https://github.com/YosfanEilay?tab=repositories&sort=stargazers">
