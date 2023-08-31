@@ -21,9 +21,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
     <a href="https://github.com/YosfanEilay?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YosfanEilay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
-    <a href="https://www.linkedin.com/in/eilay-yosfan-80b1011b8/">
-        <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/connection/eilay-yosfan-80b1011b8?color=0077B5&style=for-the-badge&labelColor=0077B5&logo=linkedin"/>
-    </a>
 </p>
 
 
