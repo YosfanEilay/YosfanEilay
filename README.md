@@ -30,9 +30,9 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ### 🧰 Languages and Tools
 
+<p align="left">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-</p>
+    </a>
 
 ---
 
