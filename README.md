@@ -28,7 +28,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
-### ⚙️ Progress of my repositories 
+### ⚙️ Progress list and Progress
 
 <p align="left">
   <strong>ForensicMiner</strong> &nbsp; &nbsp; &nbsp; &nbsp;<strong>CLSID-Ninja</strong>
