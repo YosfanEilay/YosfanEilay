@@ -31,7 +31,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 ### Progress of my repositories 
 
 <p align="left">
-  <strong>ForensicMiner</strong> &nbsp; &nbsp; <strong>CLSID-Ninja</strong>
+  <strong>ForensicMiner</strong> &nbsp; &nbsp; &nbsp; <strong>CLSID-Ninja</strong>
   <br>
   <a href="https://geps.dev/progress/65">
     <img src="https://geps.dev/progress/65" alt="ForensicMiner">
