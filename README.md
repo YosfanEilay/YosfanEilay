@@ -34,14 +34,14 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
   <strong>ForensicMiner</strong> &nbsp; &nbsp; &nbsp;<strong>CLSID-Ninja</strong>
   <br>
   <a href="https://geps.dev/progress/65">
-    &nbsp;   <img src="https://geps.dev/progress/65" alt="ForensicMiner">
+    &nbsp;  <img src="https://geps.dev/progress/65" alt="ForensicMiner">
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://geps.dev/progress/85">
-    <img src="https://geps.dev/progress/85" alt="CLSID-Ninja">
+         <img src="https://geps.dev/progress/85" alt="CLSID-Ninja">
   </a>
 </p>
 
