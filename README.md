@@ -34,11 +34,11 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 **ForensicMiner**
 ![](https://geps.dev/progress/65)
-</a>
+
 
 **CLSID-Ninja**
 ![](https://geps.dev/progress/85)
-</a>
+
 
 ---
 
