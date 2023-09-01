@@ -28,6 +28,12 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
+### Progress
+
+![](https://geps.dev/progress/10)
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
