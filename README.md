@@ -29,8 +29,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 ---
 
 ### Progress
-
-![](https://geps.dev/progress/10)
+**ForensicMiner** --> ![](https://geps.dev/progress/10)
 
 ---
 
