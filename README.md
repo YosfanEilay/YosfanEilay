@@ -28,8 +28,9 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
-### Progress
-**ForensicMiner** ![](https://geps.dev/progress/10)
+### Progress of my repositories 
+**ForensicMiner**                 **CLSID-Ninja**
+![](https://geps.dev/progress/65) ![](https://geps.dev/progress/85)
 
 ---
 
