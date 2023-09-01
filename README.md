@@ -38,7 +38,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
   </a>
   &nbsp;
   &nbsp;
-  &nbsp;
   <a href="https://geps.dev/progress/85">
     <img src="https://geps.dev/progress/85" alt="CLSID-Ninja">
   </a>
