@@ -31,7 +31,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 ### ⚙️ Work list and Progress
 
 <p align="left">
-  &nbsp; <strong>ForensicMiner</strong> &nbsp; &nbsp; <strong>CLSID-Ninja</strong>
+  &nbsp; <strong>ForensicMiner</strong> &nbsp; <strong>CLSID-Ninja</strong>
   <br>
   <a href="https://geps.dev/progress/65">
     &nbsp;  <img src="https://geps.dev/progress/65" alt="ForensicMiner">
