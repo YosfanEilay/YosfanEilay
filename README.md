@@ -47,5 +47,10 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![From IT to Cybersecurity FAST! | Part 1](https://ytcards.demolab.com/?id=ZA_M92K-oyk&title=From+IT+to+Cybersecurity+FAST%21+%7C+Part+1&lang=en&timestamp=1684000095&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "From IT to Cybersecurity FAST! | Part 1")](https://www.youtube.com/watch?v=ZA_M92K-oyk)
+[![From IT to Cybersecurity | The Ultimate Guide](https://ytcards.demolab.com/?id=0Fi8zBlmBdY&title=From+IT+to+Cybersecurity+%7C+The+Ultimate+Guide&lang=en&timestamp=1683437710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "From IT to Cybersecurity | The Ultimate Guide")](https://www.youtube.com/watch?v=0Fi8zBlmBdY)
+[![PowerShell Forensic Tips | Part 3](https://ytcards.demolab.com/?id=0AM9bpixxEQ&title=PowerShell+Forensic+Tips+%7C+Part+3&lang=en&timestamp=1682864011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerShell Forensic Tips | Part 3")](https://www.youtube.com/watch?v=0AM9bpixxEQ)
+[![PowerShell Forensic Tips | Part 2](https://ytcards.demolab.com/?id=qCVMiwYXO8o&title=PowerShell+Forensic+Tips+%7C+Part+2&lang=en&timestamp=1682692433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerShell Forensic Tips | Part 2")](https://www.youtube.com/watch?v=qCVMiwYXO8o)
+[![Firefighters and Incident Response](https://ytcards.demolab.com/?id=CwKOf6QcQ6M&title=Firefighters+and+Incident+Response&lang=en&timestamp=1681592339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Firefighters and Incident Response")](https://www.youtube.com/watch?v=CwKOf6QcQ6M)
+[![PowerShell Forensic Tips | Part 1](https://ytcards.demolab.com/?id=4gU3ixm8_FY&title=PowerShell+Forensic+Tips+%7C+Part+1&lang=en&timestamp=1680377519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerShell Forensic Tips | Part 1")](https://www.youtube.com/watch?v=4gU3ixm8_FY)
 <!-- END YOUTUBE-CARDS -->
