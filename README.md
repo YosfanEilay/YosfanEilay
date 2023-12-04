@@ -42,7 +42,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
   </a>
     &nbsp;
   <a href="https://geps.dev/progress/100">
-  <img src="https://geps.dev/progress/100" alt="Fix-keyboard-DDDouble-Tyypingg">
+  <img src="https://geps.dev/progress/100" alt="Fix-keygg">
 </p>
 
 ---
