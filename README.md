@@ -30,16 +30,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ### ⚙️ Work list and Progress
 
-<p align="left">
-  &nbsp; <strong>ForensicMiner</strong> &nbsp; <strong>CLSID-Ninja</strong>
-  <br>
-  <a href="https://geps.dev/progress100">
-    &nbsp;  <img src="https://geps.dev/progress/100" alt="ForensicMiner">
-  </a>
-&nbsp;
-  <a href="https://geps.dev/progress/100">
-  <img src="https://geps.dev/progress/100" alt="CLSID-Ninja">
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
