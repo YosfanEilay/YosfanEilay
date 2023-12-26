@@ -29,7 +29,7 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 ---
 
 ### ⚙️ Work and Progress
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay&show_icons=true&theme=transparent)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
