@@ -25,8 +25,12 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
-### ⚙️ Work and Progress
+### ⚙️ Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✨ Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
