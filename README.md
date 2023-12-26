@@ -35,6 +35,14 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 [![Firefighters and Incident Response](https://ytcards.demolab.com/?id=CwKOf6QcQ6M&title=Firefighters+and+Incident+Response&lang=en&timestamp=1681592339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Firefighters and Incident Response")](https://www.youtube.com/watch?v=CwKOf6QcQ6M)
 [![PowerShell Forensic Tips | Part 1](https://ytcards.demolab.com/?id=4gU3ixm8_FY&title=PowerShell+Forensic+Tips+%7C+Part+1&lang=en&timestamp=1680377519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerShell Forensic Tips | Part 1")](https://www.youtube.com/watch?v=4gU3ixm8_FY)
 <!-- END YOUTUBE-CARDS -->
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCp1W-aYP1V81S--Rrjr0NkA?style=for-the-badge&logo=Youtube&labelColor=FF3333&color=FF6666"/>
+    </a> 
+    <a href="https://www.youtube.com/channel/UCp1W-aYP1V81S--Rrjr0NkA">
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCp1W-aYP1V81S--Rrjr0NkA?color=FF6666&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF3333"/>
+    </a>
+</p>
 
 ### ✨ Github Stats &  Languages Card ✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
