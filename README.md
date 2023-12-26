@@ -25,16 +25,6 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 
 ---
 
-### ⚙️ Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✨ Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -45,3 +35,11 @@ malicious forces. Join me in preventing cybercriminals from casting their shadow
 [![Firefighters and Incident Response](https://ytcards.demolab.com/?id=CwKOf6QcQ6M&title=Firefighters+and+Incident+Response&lang=en&timestamp=1681592339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Firefighters and Incident Response")](https://www.youtube.com/watch?v=CwKOf6QcQ6M)
 [![PowerShell Forensic Tips | Part 1](https://ytcards.demolab.com/?id=4gU3ixm8_FY&title=PowerShell+Forensic+Tips+%7C+Part+1&lang=en&timestamp=1680377519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerShell Forensic Tips | Part 1")](https://www.youtube.com/watch?v=4gU3ixm8_FY)
 <!-- END YOUTUBE-CARDS -->
+
+### ⚙️ Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✨ Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosfanEilay)](https://github.com/anuraghazra/github-readme-stats)
