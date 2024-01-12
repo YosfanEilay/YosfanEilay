@@ -2,11 +2,11 @@
 
 **`(Threat-Researcher\YouTube-Filmmaker\PowerShell-Developer)`**
 
-A cyber enthusiast since the age 14, I'm a passionate Threat Researcher, YouTube filmmaker,
+A cyber enthusiast since the age of 14, I'm a passionate Threat Researcher, YouTube filmmaker,
 and PowerShell developer. With a black belt in jujitsu, I'm not just equipped to protect
 the digital realm but also the physical. My creative flair extends to crafting tools and
 scripts for Digital Forensics and Incident Response, fortifying the cyber world against
-malicious forces. Join me in preventing cybercriminals from casting their shadow over the internet!
+malicious forces. Join me in preventing cyber criminals from casting their shadow over the internet!
 
 #### Let's connect on LinkedIn 
 <p align="left">
